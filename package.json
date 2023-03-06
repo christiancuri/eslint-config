@@ -1,14 +1,14 @@
 {
   "name": "@acciosolutions/ts-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "scripts": {
     "lint:fix": "npm run lint -- --fix",
     "lint": "eslint ./src --ext .ts",
     "test": "jest"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@typescript-eslint/eslint-plugin": "5.26.0",
