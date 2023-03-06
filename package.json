@@ -1,6 +1,6 @@
 {
   "name": "@acciosolutions/ts-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "scripts": {
     "lint:fix": "npm run lint -- --fix",
